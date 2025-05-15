@@ -33,66 +33,69 @@ lorem или loremru создаёт текст можно указать кол�
 
 
     все что открыто должно быть закрыто
-    <>
-    ()
-    []
-    {}
-    !
-    @
-    #
-    $
-    %
-    ^
-    &&
-    *
-    -
-    +
-    =
-    :
-    ;
-    ,
-    .
-    ?
-    ~
-    ''
-    ""
-    ``
-    /
-    \
-    ||
+    <> <>
+    ()()
+    [][]
+    {}{}
+    !!
+    @ @
+    ##
+    $$
+    %%
+    ^^
+    &&&&
+    **
+    --
+    ++
+    ==
+    ::
+    ;;
+    ,,
+    ..
+    ??
+    ~~
+    '''
+    """"
+    ````
+    //
+    \\
+    |||
 
 
 80%-85% кода пишем в нижнем регистре
 
 [SHORCUTS]
 
-
-[ ctrl + z = back / ход назад] 
-[ ctrl + y = back to back / вернут ошибку] 
-[ ctrl + v = paste => вставить]
-[ ctrl + x = cut => вырезать]
-[ ctrl + a = select all => выбрать все]
+    
+[ ctrl + z = back / ход назад ] 
+[ ctrl + y = back to back / вернут ошибку ] 3 
+[ ctrl + v = paste => вставить ] 
+[ ctrl + x = cut => вырезать ]
+[ ctrl + a = select all => выбрать все ]
 [ ctrl + c = copy => копировать]
-[ ctrl + alt + up or down =  select line / выделит линию]
-[ ctrl + left or right = jump all word => прыгать целое слово]
-[ ctrl + up or down =>  вертикально скролить]
-[ ctrl + f = search menu = меню поиска]
-[ ctrl + enter = open new line]
-[ ctrl + shift + l = select all similars = выбрать одинаковых]
-[ alt + z = off or on horizontal scrollbar => отключение или включение ]
+[ ctrl + alt + up or down =  select line / выделит линию ]
+[ ctrl + left or right = jump all word => прыгать целое слово ]
+[ ctrl + up or down =>  вертикально скролить ] 
+[ ctrl + f = search menu = меню поиска ]
+[ ctrl + enter = open new line ]
+[ ctrl + shift + l = select all similars = выбрать одинаковых ]
 [ alt + up or down => move line => двигать линию]
+[ alt + z = off or on horizontal scrollbar => отключение или включение ] 
 [ alt + left mouse = select area => выбрать область ]
-[ alt + shift + f = format => порядок]
+[ alt + shift + f = format => порядок ]
 [ alt + tab = change window  => смена окна ]
-[ shift + up__ down__left__right = select => выделить]
-[ shift + alt + up or down = quick copy / скопировать линию]
-[ shift + mouserscroll = horizontal scrolling = горизонтальный скролл] [ shift + mouserscroll = horizontal scrolling = горизонтальный скролл] [ shift + mouserscroll = horizontal scrolling = горизонтальный скролл] [ shift + mouserscroll = horizontal scrolling = горизонтальный скролл] 
+[ shift + up__ down__left__right = select => выделить ]
+[ shift + alt + up or down = quick copy / скопировать линию ]
+[ shift + mouserscroll = horizontal scrolling = горизонтальный скролл ]
 [ end = go to end line = иди к концу]
 [ home = back to start  line= вернутся к началу]
 [ ctrl + home = back to the very begining = вернутся к самому началу ]
 [ ctrl + end = go to the very end = идти к самому концу]
 [ (f2 => quick rename / быстрое переименования) ]
-[ (fn + f2 => quick rename / быстрое переименования) для ноутбуков]
+[ (fn + f2 => quick rename / быстрое переименования) для ноутбуков ]
+
+
+
 атрибуты всегда устанавливаются внутри открывающей части тега => <img src=""> / <p class=""></p>
 
 
@@ -106,10 +109,10 @@ lorem или loremru создаёт текст можно указать кол�
 <b> - Bold text => <b>- Жирный текст 
 <strong> - Important text => <strong>- Важный текст
 <i> - Italic text => <i>- Курсивный текст
-<em> - Emphasized text => <em>- Выделенный текст
+<em> - Emphasized textext => <de => <em>- Выделенный текст
 <mark> - Marked text => <mark>- Выделенный текст
 <small> - Smaller text => <small>- Меньший текст
-<del> - Deleted text => <del>- Удаленный текст
+<del> - Deleted tl>- Удаленный текст
 <ins> - Inserted text => <ins>- нежное подчеркивание текста
 <sub> - Subscript text => <sub>- Подстрочный текст
 <sup> - Superscript text => <sup>- Надстрочный текст
